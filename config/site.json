@@ -9,7 +9,8 @@
   ],
   "footer": "Powered by Onedrive. Made with ❤ by Vercel.",
   "protectedRoutes": [  "/🌞 Private folder/u-need-a-password",
-  "/🥟 Some test files/Protected route"],
+  "/🥟 Some test files/Protected route
+                      /Movie/IPX-598"],
   "contact": {
     "email": "mailto:wilian.yunlong@gmail.com",
     "telegram": "https://t.me/Grapefruitwolf",
