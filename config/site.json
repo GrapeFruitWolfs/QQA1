@@ -8,7 +8,8 @@
     "600"
   ],
   "footer": "Powered by Onedrive. Made with ❤ by Vercel.",
-  "protectedRoutes": [],
+  "protectedRoutes": [  "/🌞 Private folder/u-need-a-password",
+  "/🥟 Some test files/Protected route"],
   "contact": {
     "email": "mailto:wilian.yunlong@gmail.com",
     "telegram": "https://t.me/Grapefruitwolf",
